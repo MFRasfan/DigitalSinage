@@ -44,7 +44,7 @@ import logo4 from './images/slide_4.jpg';
 const Slideshow = () => {
     return (
       <div className="slide-container">
-        
+        n
         <Slide>
           <div className="each-slide">
             <div style={{'backgroundImage': `url(${logo2})`}}>
